@@ -1,3 +1,5 @@
+![thumbnail](https://i.ytimg.com/vi/MEWLUpFkE30/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoPhQzCVoblYL5kKOF-GPw0YjvRQ)
+
 # belajar metode MVC dengan menggunakan Flask Python
 
 model -> mengambil data dari database (mysql)
